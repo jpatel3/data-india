@@ -4,7 +4,6 @@ The raw data can be fetched from here [Incidence of crime committed against Chil
 
 Header | Definition
 ---|---------
-  Party Name  Party Full Name Constituency    State
 `Name of Member` | Name of the member
 `Party Name` | Party Name (Abbriviation)
 `Party Full Name` | Party Full Name
